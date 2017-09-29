@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe.config
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Rekenmachine.resources
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Properties.Resources.resources
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Rekenmachine.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.pdb

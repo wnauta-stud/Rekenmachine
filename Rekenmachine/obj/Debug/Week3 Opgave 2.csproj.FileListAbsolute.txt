@@ -1,0 +1,37 @@
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe.config
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.pdb
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csprojResolveAssemblyReference.cache
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Form1.resources
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Properties.Resources.resources
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csproj.GenerateResource.Cache
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.exe
+Y:\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe.config
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\Visual Studio 2017\Projects\week 3\Week 3 Opgaves\Week3 Opgave 2\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe.config
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\bin\Debug\Week3 Opgave 2.pdb
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Form1.resources
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3_Opgave_2.Properties.Resources.resources
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.exe
+\\Mac\Home\Documents\NHL\Leerjaar 1\Projecten\Rekenmachine\Week3 Opgave 2\obj\Debug\Week3 Opgave 2.pdb
